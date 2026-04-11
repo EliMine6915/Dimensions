@@ -1,0 +1,17 @@
+# Temporäre Dateien von IntelliJ und VS Code
+.idea/
+.vscode/
+*.iml
+
+# Build-Ordner und Gradle-Cache
+.gradle/
+build/
+run/
+
+# SSH Schlüssel (WICHTIG: Niemals hochladen!)
+ssh_key
+ssh_key.pub
+
+# Betriebssystem-Dateien
+.DS_Store
+Thumbs.db

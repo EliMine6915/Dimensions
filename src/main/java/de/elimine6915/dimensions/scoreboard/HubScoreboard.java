@@ -2,7 +2,6 @@ package de.elimine6915.dimensions.scoreboard;
 
 import de.elimine6915.dimensions.Dimensions;
 import de.elimine6915.dimensions.data.PlayerProfile;
-import net.kyori.adventure.text.Component;
 import org.bukkit.Bukkit;
 import org.bukkit.entity.Player;
 import org.bukkit.scoreboard.DisplaySlot;
