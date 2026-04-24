@@ -1,3 +1,5 @@
+![](https://ibb.co/Kz7bp662)
+---
 **Dimensions** is a Paper plugin that introduces a unique gameplay experience to your Minecraft server. Players can choose between two dimensions: Skyblock and Stoneblock, each offering its own advantages and challenges.
 
 # ❗ Disclaimer
