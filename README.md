@@ -43,7 +43,7 @@ While primarily developed for the *Dimensions Server Network*, this plugin is al
 # ♥️ Personal
 As a **solo developer, I put a lot of heart into this project.** If you enjoy the plugin and _are in a position to do so_, **a small tip** would be greatly appreciated to support future updates.
 
-<a href="https://ko-fi.com/6915" alt="Support me on Ko-fi">
+<a href="https://ko-fi.com/6915" target="_blank" alt="Support me on Ko-fi">
   <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi"\>
 </a>
 
